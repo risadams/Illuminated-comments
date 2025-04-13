@@ -28,7 +28,7 @@ class Sorting
 }
 ```
 **Result**
-![result](MemefulComments/screenshot.png)
+![result](IlluminatedComments/screenshot.png)
 
 ## Installation
 Download the latest release from [GitHub](https://github.com/risadams/Illuminated-comments/releases)
